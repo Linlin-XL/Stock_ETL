@@ -1,0 +1,8 @@
+pandas
+numpy
+pyarrow
+fastparquet
+pyspark==3.3.1
+joblib
+scikit-learn~=1.2.2
+# seaborn
